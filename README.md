@@ -1,1 +1,2 @@
 # IBM-Data-Analyst-Capstone-Project-
+This project was completed as part of the IBM Data Analyst Professional Certificate. It involved analyzing over 600 survey responses from data professionals using Excel, SQL, and Python to uncover insights about salaries, tools, and job satisfaction. After cleaning and transforming more than 10,000 data points, I visualized key findings with Matplotlib and Seaborn and built an interactive IBM Cognos dashboard to present global trends across different roles and regions.
